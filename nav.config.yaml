@@ -15,10 +15,10 @@ gitRepoUrl: https://kissav68.github.io/nav
 branch: main
 
 # 只有GitHub pages用户需要设置为true， 其他建议设置为 false
-hashMode: false
+hashMode: true
 
 # 一旦填写认为你是自有部署，Fork 不要填写
-address: ''
+address: 'https://ritiandaohang.netlify.app'
 
 # 自有部署后台登录密码
 password: admin
